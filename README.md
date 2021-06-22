@@ -1,6 +1,6 @@
 ## Hey 👋
 
-My name is Gabriel Pierrout, I'm from Brazil I'm a :computer:Information Systems student at Universidade Estácio de Sá (UNESA).
+My name is Gabriel Pierrout, I'm from Brazil I'm a :computer:IT student at Universidade Estácio de Sá (UNESA).
 
 📌 São Gonçalo - Rio de Janeiro
 
