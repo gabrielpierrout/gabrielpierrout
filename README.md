@@ -12,7 +12,7 @@ My name is Gabriel Pierrout, I'm from Brazil, I'm an :computer:IT Student at Uni
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabrielpierrout/)
 
-<center><div>
+<div align="center">
 	<a href="https://github.com/gabrielpierrout/">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpierrout&theme=tokyonight&show_icons=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpierrout&layout=compact&theme=tokyonight"/>
-</div></center>
+</div>
