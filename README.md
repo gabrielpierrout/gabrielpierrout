@@ -12,3 +12,8 @@ My name is Gabriel Pierrout, I'm from Brazil, I'm an :computer:IT Student at Uni
 
 [<img alt="LinkedIn" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)"/>](https://www.linkedin.com/in/gabrielpierrout/)
 
+[<img alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>]([https://www.w3schools.com/html/](https://www.linkedin.com/in/gabrielpierrout/))
+
+
+
+
